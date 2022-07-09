@@ -1,0 +1,9 @@
+.active{
+    color: red;
+    font-weight: bold;
+}
+
+.blue{
+    color: rgb(48, 36, 211);
+    font-weight: bold;
+}
